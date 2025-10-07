@@ -17,4 +17,5 @@ Pod::Spec.new do |s|
 
   s.dependency "React-Core"
   s.dependency "GoogleMLKit/TextRecognition", "2.2.0"
+  s.dependency "GTMSessionFetcher/Core", "~> 3.5"
 end
